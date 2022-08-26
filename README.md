@@ -1,4 +1,5 @@
-# Color Blind Test
+# Color Blind Test App
+
 ### "Having color blindness means you can’t see certain colors the way most people do — or you may not see color at all." (nei.nih.gov)
 
 ### This test* helps you test grey, blue, red-green, and blue-green color blindness. You can also test* the color blindness of your kids.

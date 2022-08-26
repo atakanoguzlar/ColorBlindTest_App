@@ -1,4 +1,4 @@
-# Color Blind Test App
+# Color Blindness Test App
 
 ### "Having color blindness means you can’t see certain colors the way most people do — or you may not see color at all." (nei.nih.gov)
 
